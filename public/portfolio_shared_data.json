@@ -1,20 +1,20 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Aishwarya Bhardwaj",
+      "titles": [ "Sr. Front-end Developer","Web Developer", "Senior UI Developer", "Dev Team lead", "Mobile App Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/aish2709",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/aishwarya-bhardwaj-b429882ab/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myProfilePic.jpeg"
     },
     "skills": {
       "icons": [
@@ -27,6 +27,11 @@
           "name": "CSS 3",
           "class": "devicon-css3-plain",
           "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "60"
         },
         {
           "name": "Angular",
@@ -62,7 +67,52 @@
           "name": "MySql",
           "class": "devicon-mysql-plain",
           "level": "60"
-        }
+        },
+        {
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain",
+          "level": "60"
+        },
+        {
+          "name": "Selenium",
+          "class": "devicon-selenium-plain",
+          "level": "60"
+        },
+        {
+          "name": "Github",
+          "class": "devicon-github-plain",
+          "level": "60"
+        },
+        {
+          "name": "Jest",
+          "class": "devicon-jest-plain",
+          "level": "60"
+        },
+          {
+            "name": "Jira",
+            "class": "devicon-jira-plain",
+            "level": "60"
+          },
+            {
+              "name": "MongoDB",
+              "class": "devicon-mongodb-plain",
+              "level": "60"
+            },
+              {
+                "name": "Oracle",
+                "class": "devicon-oracle-plain",
+                "level": "60"
+              },
+                {
+                  "name": "Azure",
+                  "class": "devicon-azure-plain",
+                  "level": "60"
+                },
+                  {
+                    "name": "Java",
+                    "class": "devicon-java-plain",
+                    "level": "60"
+                  }
       ]
     }
   }

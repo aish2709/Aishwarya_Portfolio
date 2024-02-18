@@ -1,48 +1,58 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Salut",
+      "description": "👋  Je m'appelle Aishwarya Bhardwaj. Je suis une développeuse Frontend chevronnée avec plus de 5 ans d'expérience dans le développement d'applications, spécialisée dans ReactJS, XML, XSLT, HTML, CSS, WCAG, JavaScript, Angular, AJAX, React Native, node.js, jQuery, npm et Redux. Mon expertise réside dans la création d'interfaces web engageantes et conviviales, avec une forte passion pour la conception d'UI pixel-perfect. :) Je travaille avec les plus récents frameworks frontend comme Angular, React et Vue. Je suis une développeuse UI très passionnée, car depuis mon enfance, j'étais attirée par les arts et l'artisanat ⭐, ce qui me donne maintenant l'opportunité de créer des sites web intuitifs et magnifiques. Merci 💜",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "À propos de moi",
+        "projects": "Projets",
+        "skills": "Compétences",
+        "experience": "Expérience"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Movies App",
+        "startDate": "2024",
+        "description": "Une application de films avec une page d'accueil et une section Favoris. Les fonctionnalités incluent: Recherche, Tri, Filtrage, Appels API, Pagination, Bootstrap utilisé, LocalStorage, Routage, Méthodes du cycle de vie. La section de la page d'accueil contient tous les films les mieux notés récupérés par des appels API et a une fonctionnalité pour supprimer ou ajouter un film particulier aux favoris. La section Favoris a un tableau de filtres de genre, une recherche, un tri et une fonctionnalité de comptage de lignes pour personnaliser le tableau selon les besoins de l'utilisateur. Une fonctionnalité de pagination est également appliquée.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+         "images/portfolio/movies/m1.png",
+        "images/portfolio/movies/movies.png",
+        "images/portfolio/movies/m2.png",
+        "images/portfolio/movies/m3.png"
         ],
-        "url": "",
+        "url": "https://statuesque-choux-22c5ce.netlify.app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "Instsgram Reels App",
+        "startDate": "2023",
+        "description": "Un projet Instagram Reels où vous pouvez vous connecter et vous inscrire en tant qu'utilisateur et les données sont stockées dans le stockage et la base de données Firestore de Firebase. API de contexte, Modal, Commentaires sont utilisés :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/insta/i1.png",
+          "images/portfolio/insta/i2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/aish2709/InstagramReelsApp?tab=readme-ov-file",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -51,41 +61,52 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "TO-DO WebApp",
+        "startDate": "2022",
+        "description": "C'est une belle application web TO-DO en thème sombre. Dans cette application, l'utilisateur peut ajouter les tâches et les corvées de la journée et les cocher lorsqu'elles sont terminées. Il y a également une option pour supprimer n'importe quelle tâche. C'est l'une des premières applications sur lesquelles j'ai travaillé pendant mon stage. J'ai beaucoup appris!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/todo/t1.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/aish2709/React-Todo-WebApp",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
           }
         ]
       }
     ],
-    "experience": [
+    "experience":[
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Ally Financial, MI",
+        "title": "Sr. React Developer ",
+        "years": "Apr, 2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React, Javascipt, AJAX, Node.js"
         ],
         "technologies": [
           "REST API",
@@ -93,23 +114,147 @@
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "HTML5",
+          "CSS3",
+          "SASS",
+          "jQuery",
+          "JIRA",
+          "React",
+          "ReactJS",
+          "NodeJS",
+          "JSP",
+          "AJAX",
+          "JSON",
+          "XML"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "Chewy,FLL",
+        "title": "Sr. UI Developer ",
+        "years": "Nov, 2021 - Mar, 2023",
         "mainTech": [
-          "Angular 7/8"
+          "React, Javascript, Typecript, Node.js, MySQL"
         ],
         "technologies": [
-          "REST API",
           "RxJS",
-          "Swagger",
+          "Django",
+          "PHP",
           "JavaScript",
-          "DHTMLX Gantt"
+          "DHTMLX Gantt",
+          "HTML5",
+          "CSS3",
+          "SASS",
+          "jQuery",
+          "JIRA",
+          "React",
+          "React JS",
+          "NodeJS",
+          "JSP",
+          "AJAX",
+          "JSON",
+          "XML",
+          "Grunt",
+          "TOMCAT APACHE",
+          "HTML/HTML5",
+          " CSS/CSS3",
+          "SQL Server",
+          "MVC5",
+          "Less",
+          "Sass",
+          ".Net Framework",
+          "jQuery",
+          "bootstrap",
+          "AJAX",
+          "JSON",
+          "grunt",
+          "MAVEN",
+          "Jenkins",
+          "J2EE",
+          "MySQL",
+          "Oracle"
+        ]
+      },
+      {
+        "company": "Wolterskluwer,Indianapolis",
+        "title": " Jr. Frontend Developer",
+        "years": "Nov, 2020 - Oct, 2021",
+        "mainTech": [
+          "React, Javascript, Typecript, Node.js, MySQL"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt",
+          "HTML5",
+          "CSS3",
+          "SASS",
+          "jQuery",
+          "JIRA",
+          "React",
+          "React JS",
+          "NodeJS",
+          "JSP",
+          "AJAX",
+          "JSON",
+          "XML",
+          "Grunt",
+          "TOMCAT APACHE",
+          "HTML/HTML5",
+          " CSS/CSS3",
+          "SQL Server",
+          "Python",
+          "Django",
+          "Angular",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Sublime Text",
+          "Jira",
+          "GIT",
+          "py Builder",
+          "unit test",
+          "Web Services",
+          "AWS",
+          "S3",
+          "Spark",
+          "Selenium",
+          "RedHat Linux",
+          "Jupyter",
+          "NumPy",
+          "Pandas",
+          "JSON"
+        ]
+      },
+      {
+        "company": "M-Digital, Hyderabad",
+        "title": "Frontend Developer",
+        "years": "Jan, 2019 - Oct, 2020",
+        "mainTech": [
+          "React, Javascript, Typecript, Node.js, MySQL"
+        ],
+        "technologies": [
+          "AngularJs",
+          "Angular Material",
+          "Java",
+          "J2EE",
+          "Agile",
+          "Spring",
+          " REST Services",
+          "Jenkins",
+          "GIT",
+          "OpenShift",
+          "WebSphere",
+          "spring boot",
+          "RAD",
+          "Kafka",
+          "Splunk",
+          "Nodejs",
+          "HTML",
+          "CSS",
+          "PostgreSQL",
+          "mongoDB"
         ]
       }
     ]
