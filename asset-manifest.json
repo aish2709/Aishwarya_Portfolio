@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%20//aish2709.github.io/Aishwarya_Portfolio/static/css/main.bb975096.css",
+    "main.js": "/%20//aish2709.github.io/Aishwarya_Portfolio/static/js/main.963dc5c5.js",
+    "index.html": "/%20//aish2709.github.io/Aishwarya_Portfolio/index.html",
+    "main.bb975096.css.map": "/%20//aish2709.github.io/Aishwarya_Portfolio/static/css/main.bb975096.css.map",
+    "main.963dc5c5.js.map": "/%20//aish2709.github.io/Aishwarya_Portfolio/static/js/main.963dc5c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb975096.css",
+    "static/js/main.963dc5c5.js"
+  ]
+}

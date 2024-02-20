@@ -1,0 +1,186 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Aishwarya Bhardwaj. I am a seasoned Frontend Developer with over 5+ years of experience in Application Development, specializing in ReactJS, XML, XSLT, HTML, CSS, WCAG, JavaScript, Angular, AJAX, React Native, node.js, jQuery, npm, and Redux. My expertise lies in creating engaging and user-friendly web interfaces, with a strong passion for pixel-perfect UI design. :) I'm working with newest front-end frameworks like Angular, React and Vue. I am a very passionate UI developer as from my childhood I was inclined towards arts & crafts ⭐ which now gives me oppurtunity to create intuitive and beautiful websites. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Movies App",
+        "startDate": "2024",
+        "description": "A movie app with a Home Page and Favorites section. Features include: Searching, Sorting, Filtering, API Calls, Pagination, Bootstrap used, LocalStorage, Routing, Lifecycle Methods. The home page section contains all the top-rated movies fetched by API calls and has a feature to remove or add a particular film to favorites.The favorites section has a genre filter table, search, sort, and row count feature to customize the table according to user needs. A pagination feature is also applied.",
+        "images": [
+          "images/portfolio/movies/m1.png",
+          "images/portfolio/movies/movies.png",
+          "images/portfolio/movies/m2.png",
+          "images/portfolio/movies/m3.png"
+          
+        ],
+        "url": "https://statuesque-choux-22c5ce.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "Instagram Reels App",
+        "startDate": "2023",
+        "description": "An Instagram Reels Project where you can sign in & sign-up as a user and the data is stored in Firebase storage & Firestore. Context API, Modal, Commets is use :)",
+        "images": [
+          "images/portfolio/insta/i1.png",
+          "images/portfolio/insta/i2.png"
+        ],
+        "url": "https://github.com/aish2709/InstagramReelsApp?tab=readme-ov-file",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+
+        ]
+      },
+      {
+        "title": "TO-DO WebApp",
+        "startDate": "2022",
+        "description": "It's a beutiful dark themed TO-DO web app. In this user can add the chores & tasks of the day and checklist it when done. There's an option to delete any task as well.One of the first apps I was working during my internship. I've learned a lot!",
+        "images": [
+          "images/portfolio/todo/t1.png"
+        ],
+        "url": "https://github.com/aish2709/React-Todo-WebApp",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Ally Financial, MI",
+        "title": "Sr. React Developer ",
+        "years": "Apr, 2023 - present",
+        "mainTech": [
+          "React, Javascipt, AJAX, Node.js"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "HTML5", "CSS3", "SASS", "jQuery", "JIRA", "React", "ReactJS", "NodeJS", "JSP", "AJAX", "JSON", "XML"
+        ]
+      },
+      {
+        "company": "Chewy,FLL",
+        "title": "Sr. UI Developer ",
+        "years": "Nov, 2021 - Mar, 2023",
+        "mainTech": [
+          "React, Javascript, Typecript, Node.js, MySQL"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt",
+          "HTML5", "CSS3", "SASS", "jQuery", "JIRA", "React","React JS", "NodeJS", "JSP", "AJAX", "JSON", "XML", "Grunt", "TOMCAT APACHE", "HTML/HTML5"," CSS/CSS3", "SQL Server", "MVC5" , "Less", "Sass", ".Net Framework", "jQuery", "bootstrap", "AJAX", "JSON", "grunt", "MAVEN", "Jenkins", "J2EE", "MySQL", "Oracle"
+
+        ]
+      },
+{
+  "company": "Wolterskluwer,Indianapolis",
+  "title": " Jr. Frontend Developer",
+  "years": "Nov, 2020 - Oct, 2021",
+  "mainTech": [
+    "React, Javascript, Typecript, Node.js, MySQL"
+  ],
+  "technologies": [
+    "RxJS",
+    "Django",
+    "PHP",
+    "JavaScript",
+    "DHTMLX Gantt",
+    "HTML5",
+    "CSS3",
+    "SASS",
+    "jQuery",
+    "JIRA",
+    "React",
+    "React JS",
+    "NodeJS",
+    "JSP",
+    "AJAX",
+    "JSON",
+    "XML",
+    "Grunt",
+    "TOMCAT APACHE",
+    "HTML/HTML5",
+    " CSS/CSS3",
+    "SQL Server",
+   "Python", "Django", "Angular", "HTML", "CSS", "JavaScript", "Sublime Text", "Jira", "GIT", "py Builder", "unit test", "Web Services", "AWS", "S3","Spark", "Selenium", "RedHat Linux", "Jupyter", "NumPy", "Pandas", "JSON"
+
+  ]
+},
+  {
+    "company": "M-Digital, Hyderabad",
+    "title": "Frontend Developer",
+    "years": "Jan, 2019 - Oct, 2020",
+    "mainTech": [
+      "React, Javascript, Typecript, Node.js, MySQL"
+    ],
+    "technologies": [
+      "AngularJs", "Angular Material", "Java", "J2EE", "Agile", "Spring"," REST Services", "Jenkins", "GIT", "OpenShift", "WebSphere" , "spring boot", "RAD", "Kafka", "Splunk", "Nodejs" ,"HTML","CSS", "PostgreSQL", "mongoDB"
+
+    ]
+  }
+    ]
+  }
